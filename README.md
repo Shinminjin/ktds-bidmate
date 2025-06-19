@@ -216,3 +216,11 @@ bash /home/site/wwwroot/streamlit.sh
 ### 🎯 프로젝트 자동 선별 및 추천 고도화
 - 기술 요건 기반 유사도 + 임팩트 기반 유사 프로젝트 자동 추천  
 - 최적 이력 자동 매칭 알고리즘으로 제안 경쟁력 강화
+
+---
+## 🎬 실행화면
+
+![실행 화면](https://github.com/user-attachments/assets/ddc22a3d-9fab-44c7-ba5f-b6a414bc67c7)
+
+📽️ [실행 영상 보기 (Google Drive)](https://drive.google.com/file/d/1hdNHW0yV8ub8lIugCo15ajA4lZEoDZr1/view?usp=sharing)
+
