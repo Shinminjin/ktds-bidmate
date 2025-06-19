@@ -1,0 +1,1921 @@
+[
+  {
+    "id": "1",
+    "name": "Smart-Military",
+    "description": "Smart-Military는 통합플랫폼을 통한 분산된 시스템의 데이터(IoT, 기상, 자원)를 통합 관제 솔루션입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "관리자는 실시간으로 시설물 및 시스템의 데이터의 상태를 모니터링하고, 문제 발생 시 즉각적인 대응이 가능하고, 대응과정 중 발생하는 여러 프로세스를 간소화할 수 있습니다. 통합플랫폼은 타 시스템 간의 호환성과 유연성을 확보합니다. 각종 상황에 맞춰 관리자는 상황에 대한 의사결정과 작업 흐름을 결심할 수 있으며, 이는 상황대응 및 업무 효율성을 높이는 데 기여합니다.",
+    "benefits": [
+      "부대운영 효율성 향상",
+      "자동화 된 알림기능",
+      "사용자 친화적 인터페이스",
+      "위급상황 처리 지원"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "육군본부(9사단)",
+        "company": "국방부",
+        "industry": "국방",
+        "challenge": "산재된 시설물 및 시스템 데이터 통합",
+        "solution": "Smart-Military 도입",
+        "result": "부대운영 효율성 및 지휘관 결심 지원 체계화"
+      }
+    ],
+    "techSpecs": [
+      "위젯 대시보드"
+    ],
+    "contactTeam": "전략AX본부 / 전략개발팀",
+    "contactMan": "이성호",
+    "contactEmail": "contact@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "배치관리솔루션",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "AI Centro",
+    "description": "AI Centro는 AI서비스를 쉽고 빠르게 구축, 배포, 운영 할 수 있도록 지원하는 End-to-End AI서비스 플랫폼입니다.",
+    "categoryId": "ai",
+    "longDescription": "AI Centro 솔루션은 딥러닝 기반의 AI service를 쉽고 빠르게 구축, 배포, 운영할 수 있는 플랫폼입니다. 배포 파이프라인을 구성하고 기존 모델과 재학습 모델의 실시간 트래픽 기반 A/B 테스트를 통한 모델 성능 비교에 따른 서비스 전환 체계를 제공하며 챔피언/챌린저 전략을 통해 다양한 모델의 실험을 진행하고 최적의 모델을 선택하여 AI 서비스 추론의 성능을 향상시킬 수 있도록 지원합니다. 또한 서비스 중인 모델의 feature/ 예측 결과/ 실제 결과를 적재하고 각 데이터간 비교를 통해 주기적 모니터링을 할 수 있습니다. AI Centro를 통하여 기업의 디지털 경쟁력을 한층 높일 수 있습니다.",
+    "benefits": [
+      "자동 재학습을 통한 모델 성능 저하 방지",
+      "챔피언/챌린저 기능",
+      "주기적인 모니터링",
+      "모델/데이터 자산화 및 재사용성 강화",
+      "AI 인프라 자원 효율화"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "신한 SACP",
+        "company": "신한은행",
+        "industry": "금융",
+        "challenge": null,
+        "solution": "AICentro 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 2,
+        "title": "현대해상 분석계 시스템 재구축",
+        "company": "현대해상",
+        "industry": "금융",
+        "challenge": null,
+        "solution": "AICentro 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 3,
+        "title": "BC카드 AI실습 플랫폼 도입",
+        "company": "BC카드",
+        "industry": "금융",
+        "challenge": null,
+        "solution": "AICentro 솔루션 도입",
+        "result": null
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Python/Java 기반 호환",
+      "대시보드 및 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX본부/ 전략개발팀",
+    "contactMan": "신성혁",
+    "contactEmail": "aicentro@kt.com",
+    "contactNumber": null,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Elastic/Splunk",
+    "description": "Elastic/Splunk는 빅데이터 저장, 시각화, 검색 및 서비스 배포 관리 플랫폼입니다.",
+    "categoryId": "bigdata",
+    "longDescription": "Elastic/Splunk는 빅데이터 저장, 시각화, 검색 및 서비스 배포 관리를 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 실시간 데이터 수집/저장, 실시간 검색/분석, 데이터 시각화 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상"
+    ],
+    "caseStudies": [],
+    "techSpecs": [],
+    "contactTeam": "전략AX본부/ 전략개발팀",
+    "contactMan": null,
+    "contactEmail": null,
+    "contactNumber": null,
+    "tags": [
+      "빅데이터",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "IT Scope",
+    "description": "IT Scope는 체계적이고 효율적인 프로젝트 관리 및 협업을 지원하는 통합 플랫폼입니다",
+    "categoryId": "it-management",
+    "longDescription": "ITSCOPE-PMO 제품은 프로젝트 관리 시스템으로, 성공적인 사업 추진을 위해 필수적인 8가지 관리영역을 체계적으로 통합하여 관리할 수 있는 솔루션입니다. 이 솔루션은 범위, 일정, 위험, 품질, 의사소통, 형상, 문서, 인력 관리를 포함한 구체적인 프로젝트 관리 기능을 제공합니다. 또한, IT 프로젝트 수행에 최적화된 관리 지원과 콘텐츠를 제공합니다. 사용자 친화적인 대시보드를 통해 실시간으로 프로젝트 진행 상황을 파악하고, 자동화를 통해 업무 효율성을 향상시킬 수 있습니다. 표준화된 업무 절차와 신속한 의사소통을 지원하여 프로젝트의 성과를 극대화합니다. 이 솔루션은 고객 비즈니스 환경에 맞춰 커스터마이징하여 적용할 수 있어 프로젝트 수행을 체계적으로 지원합니다.",
+    "benefits": [
+      "영역별 전문화 기능: Program, Project, Infrastructure, Organization으로 구분하여 각 영역에 맞춘 전문화된 기능을 제공.",
+      "유기적 연계 및 정보 공유: 프로젝트 지원을 위한 유기적인 연계와 재활용 및 정보 공유 기능을 통해 계획 수립부터 종료 운영까지 다양한 기능 제공.",
+      "자동화 및 생산성 향상: 반복적이고 낭비적인 수작업을 자동화하여 생산성을 높이고, 프로젝트 진척 상황에 대한 가시성 강화.",
+      "표준 프로세스 기반: 조직에서 정의된 표준 프로세스를 기반으로 프로젝트의 초기 WBS를 자동 생성.",
+      "WBS 구성 및 태스크 정보: 프로젝트 특성에 맞는 조직 표준 WBS 선정하여 초기 WBS 구성, 태스크 수행 시 필요한 정보 제공."
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "애큐온저축은행 코어뱅킹 차세대 시스템 구축",
+        "company": "애큐온저축은행",
+        "industry": "금융",
+        "challenge": "노후된 코어뱅킹 시스템으로 인한 운영 비효율",
+        "solution": "차세대 시스템 구축 및 PM도구 활용",
+        "result": "업무 자동화 및 시스템 안정성 향상"
+      },
+      {
+        "id": 2,
+        "title": "교육부 국립대학 자원관리 시스템 구축",
+        "company": "교육부",
+        "industry": "공공",
+        "challenge": "국립대학 자원 관리의 비효율성",
+        "solution": "통합 자원관리 시스템 구축 및 PM도구 적용",
+        "result": "자원 관리의 일원화 및 행정 처리 효율성 제고"
+      },
+      {
+        "id": 3,
+        "title": "신한카드 BPR 시스템 분리 재구축",
+        "company": "신한카드",
+        "industry": "금융",
+        "challenge": "통합 시스템으로 인한 서비스 유연성 부족",
+        "solution": "BPR 시스템 분리 및 재구축, PM도구 활용",
+        "result": "업무 프로세스 최적화 및 대응 속도 향상"
+      },
+      {
+        "id": 4,
+        "title": "국민건강보험 장기요양보험 급여 시스템 구축",
+        "company": "국민건강보험공단",
+        "industry": "공공",
+        "challenge": "급여 업무의 복잡성과 수작업 처리",
+        "solution": "장기요양보험 급여 시스템 구축",
+        "result": "급여 업무 자동화 및 정확도 개선"
+      },
+      {
+        "id": 5,
+        "title": "보건복지부 사회보장정보시스템 개선",
+        "company": "보건복지부",
+        "industry": "공공",
+        "challenge": "사회보장 데이터 통합 부족",
+        "solution": "정보시스템 개선 및 PM도구 도입",
+        "result": "데이터 연계성 향상 및 정책 대응력 강화"
+      },
+      {
+        "id": 6,
+        "title": "국민건강보험 통합급여시스템 구축",
+        "company": "국민건강보험공단",
+        "industry": "공공",
+        "challenge": "급여 업무 시스템의 이원화",
+        "solution": "통합급여시스템 구축 및 PM도구 활용",
+        "result": "시스템 통합을 통한 효율성 및 사용자 편의성 향상"
+      },
+      {
+        "id": 7,
+        "title": "행정안전부 차세대 표준 지방 인사정보 시스템 구축",
+        "company": "행정안전부",
+        "industry": "공공",
+        "challenge": "지방 인사정보 시스템의 비표준화",
+        "solution": "표준 인사정보 시스템 구축 및 PM도구 적용",
+        "result": "데이터 표준화 및 관리 효율성 증대"
+      },
+      {
+        "id": 8,
+        "title": "행정안전부 재난안전통신망 구축 및 유지보수",
+        "company": "행정안전부",
+        "industry": "공공",
+        "challenge": "재난 대응 통신의 안정성과 확장성 부족",
+        "solution": "차세대 재난안전통신망 구축 및 PM도구 운영",
+        "result": "재난 대응 체계 강화 및 통신망 안정성 확보"
+      },
+      {
+        "id": 9,
+        "title": "한국거래소 차세대 시장 시스템 구축",
+        "company": "한국거래소",
+        "industry": "금융",
+        "challenge": "기존 시스템의 성능 한계 및 확장성 부족",
+        "solution": "차세대 시스템 구축과 PM도구 적용",
+        "result": "거래 처리 성능 향상 및 시장 안정성 확보"
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": "전략AX사업본부/사업PMO팀",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "협업 및 관리 솔루션"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Up-Tempo",
+    "description": "Up-Tempo는 비대면 테스트 지원으로 사용자가 온라인을 통하여 실제 단말을 사용하듯이 테스트 및 상시 점검을 수행할 수 있는 기능 제공입니다",
+    "categoryId": "quality-management",
+    "longDescription": "ITSCOPE-PMO 제품은 프로젝트 관리 시스템으로, 성공적인 사업 추진을 위해 필수적인 8가지 관리영역을 체계적으로 통합하여 관리할 수 있는 솔루션입니다. 이 솔루션은 범위, 일정, 위험, 품질, 의사소통, 형상, 문서, 인력 관리를 포함한 구체적인 프로젝트 관리 기능을 제공합니다. 또한, IT 프로젝트 수행에 최적화된 관리 지원과 콘텐츠를 제공합니다. 사용자 친화적인 대시보드를 통해 실시간으로 프로젝트 진행 상황을 파악하고, 자동화를 통해 업무 효율성을 향상시킬 수 있습니다. 표준화된 업무 절차와 신속한 의사소통을 지원하여 프로젝트의 성과를 극대화합니다. 이 솔루션은 고객 비즈니스 환경에 맞춰 커스터마이징하여 적용할 수 있어 프로젝트 수행을 체계적으로 지원합니다.",
+    "benefits": [
+      "최대 4대의 모바일 기기에서 동시에 테스트를 실행할 수 있어 테스트 시간을 단축",
+      "안드로이드와 ios를 토함하여 1500대 이상의 실제 단말기를 지원하여 다양한 환경에서의 테스트가 가능",
+      "테스트 진행 상황을 실시간으로 모니터링하고, 결과를 리포트 형태로 제공하여 문제를 신속하게 파악하고 대응 가능"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KT IT솔루션 구축 및 운영 계약 (2023년 12월 종료)",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "IT 서비스 통합 운영의 복잡성과 디지털 전환 가속화 필요",
+        "solution": "AICentro 기반 통합 IT 운영관리 솔루션 도입 및 체계적 PM도구 적용",
+        "result": "운영 효율성 30% 향상, 장애 대응 시간 단축, 고객 만족도 향상"
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "up-tempo.ktds@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "품질테스트"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "전대리",
+    "description": "마비서는 마이 스마트 비서로써 ERP 신청 패턴 분석을 통한 Rule-based 자동화와 ERP 챗봇을 활용한 서비스입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "마비서는 로봇을 통한 단순, 반복입력내용의 Rule Based 자동화로 최소정보입력만으로 HR 서비스를 신청할 수 있으며 대화형 텍스트 분석 및 인식을 통해 편리한 메뉴 이동 및 신청 정보가 자동으로 입력할 수 있어서 기업의 생산성 향상에 기여합니다.",
+    "benefits": [
+      "초보자도 ERP 업무를 쉽고 빠르게 처리할 수 있도록 업무처리 방식을 변경할 수 있습니다. "
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KT 사내 ERP 전표처리 업무 시스템 적용",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "수작업 중심의 전표처리로 인한 업무 누락 및 처리 지연 발생",
+        "solution": "ERP 시스템 내 전표처리 자동화 기능 적용 및 PM도구 기반 업무 표준화",
+        "result": "업무 정확도 향상, 처리 시간 40% 단축, 재무 프로세스 일관성 확보"
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "서비스"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "마비서",
+    "description": "마비서는 마이 스마트 비서로써 ERP 신청 패턴 분석을 통한 Rule-based 자동화와 ERP 챗봇을 활용한 서비스입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "마비서는 로봇을 통한 단순, 반복입력내용의 Rule Based 자동화로 최소정보입력만으로 HR 서비스를 신청할 수 있으며 대화형 텍스트 분석 및 인식을 통해 편리한 메뉴 이동 및 신청 정보가 자동으로 입력할 수 있어서 기업의 생산성 향상에 기여합니다.",
+    "benefits": [
+      "사용자 정보 및 기존 신청 이력을 이용한 입력 최소화 및 프로세스 간소화됩니다.",
+      "서비스 선택에서부터 신청까지 2~3 step 내에서 완료 가능합니다.",
+      "개인 맞춤형 정보 및 반복 입력 정보 사전 제시를 통한 손쉬운 신청이 가능합니다.",
+      "모바일 기기에서 파일을 직접 업로드할 수 있습니다.",
+      "모바일을 이용한 24시간 상시 서비스로 업무 시간 외 서비스를 제공받을 수 있습니다.",
+      "휴직, 재직전출 등 사내 pc 사용에 제약이 있는 사원 대상 서비스가 가능합니다."
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KT 사내 HR 서비스 시스템 적용",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "인사 정보 분산 및 수기 업무로 인한 비효율성과 데이터 오류 발생",
+        "solution": "사내 HR 시스템 통합 구축 및 PM도구 기반의 업무 프로세스 개선",
+        "result": "인사 데이터 통합 관리 체계 확보, 인사 운영 효율성 및 정확도 향상"
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "솔루션"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "K-VARAM",
+    "description": "K-VARAM는 3차원의 입체적인 공간을 온라인에 구현할 수 있는 솔루션입니다.",
+    "categoryId": "etc-service",
+    "longDescription": "K-VARAM는 온라인에서 오프라인과 동일한 고객 경험을 제공하고 가상환경에서 화상 상담, 청약 등 비즈니스와 연계하여 업무를 처리할 수 있도록 하는 솔루션입니다.",
+    "benefits": [
+      "초저지연",
+      "확장성",
+      "실시간 스트리밍"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "kt 가상 대리점 PoC 수행",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": null,
+        "solution": "K-VARAM 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 2,
+        "title": "kt 메타버스 플랫폼 구축",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": null,
+        "solution": "K-VARAM 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 3,
+        "title": "ETOOS 메타버스 학원 구축 사업 수행",
+        "company": "ETOOS",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "K-VARAM 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 4,
+        "title": "신한카드 인사이드 메타버스 플랫폼 구축",
+        "company": "신한카드",
+        "industry": "금융",
+        "challenge": null,
+        "solution": "K-VARAM 솔루션 도입",
+        "result": null
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": null,
+    "contactMan": null,
+    "contactEmail": "kvaram@kt.com",
+    "contactNumber": null,
+    "tags": [
+      "Metaverse"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Argos",
+    "description": "Argos는 인공지능 기반의 온라인 시험 부정행위 탐지 솔루션(AI감독관)입니다.",
+    "categoryId": "ai",
+    "longDescription": "Argos는 인공지능 기반의 온라인 시험 부정행위 탐지 솔루션(AI감독관)입니다. 이 솔루션을 통해서 AI 기술 기반 부정행위 탐지가 가능하며 추가적으로 부정행위 탐지 결과를 리포트 받을 수 있습니다. 관리자 기능으로 신분증 촬영을 통한 본인 인증 및 응시자 관리 등을 할 수 있습니다. Argos를 통해서 AI로 기업 및 기관의 투명성과 효율성을 향상할 수 있습니다.",
+    "benefits": [
+      "고객 비즈니스 모델에 적합한 관리자 도구",
+      "UI/API/ML 등 핵심 기능의 모듈화",
+      "외부 채널의 연계를 위한 REST API 제공",
+      "부정행위 탐지 결과 로그 분석 및 문제 해결"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "kt AICE 인증 자격 시험 적용",
+        "company": "KT",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 2,
+        "title": "kt 2022년 하반기 인턴 교육 종합 시험 적용",
+        "company": "KT",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 3,
+        "title": "kt 2023년 인턴 교육 AICE 시험 적용",
+        "company": "KT",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 4,
+        "title": "육군본부 AICE Basic 시험 적용",
+        "company": "육군본부",
+        "industry": "국방",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 5,
+        "title": "로봇고 AICE Basic 시험 적용",
+        "company": "로봇고",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 6,
+        "title": "AICE 정기시험 적용",
+        "company": null,
+        "industry": null,
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 7,
+        "title": "에이블스쿨 AICE Associate 시험 적용",
+        "company": "에이블스쿨",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 8,
+        "title": "현대케피코 AICE Basic 시험 적용",
+        "company": "현대케피코",
+        "industry": "자동차",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 9,
+        "title": "배화여대 AICE Associate 시험 적용",
+        "company": "배화여대",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 10,
+        "title": "국립부산과학관 AICE Basic 시험 적용",
+        "company": "국립부산과학관",
+        "industry": "문화",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 11,
+        "title": "고려대학교 AICE Associate 시험 적용",
+        "company": "고려대학교",
+        "industry": "교육",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      },
+      {
+        "id": 12,
+        "title": "현대로템 AICE Basic 시험 적용",
+        "company": "현대로템",
+        "industry": "자동차",
+        "challenge": null,
+        "solution": "Argos 솔루션 도입",
+        "result": null
+      }
+    ],
+    "techSpecs": [],
+    "contactTeam": null,
+    "contactMan": null,
+    "contactEmail": null,
+    "contactNumber": null,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "DSCore",
+    "description": "DSCore는 현장의 비즈니스 요구에 따라 필요한 모듈을 사용하여 신속하게 개발을 진행할 수 있으며, 표준화된 코드 품질 확보가 가능한 프레임워크입니다.",
+    "categoryId": "framework",
+    "longDescription": "Java 17과 Spring Boot 3.x 이상을 기반으로 구축되었습니다. Hexagonal Architecture를 적용해 Cloud Native 환경에 유연하게 대응하며, 확장성과 유지보수성을 강화합니다. Gradle을 이용한 Composite Pattern 기반의 멀티 모듈 빌드 구조로, 모듈 간 의존성을 효율적으로 관리하고 빌드 시간을 단축시킵니다. CI/CD 레퍼런스와 클라우드 서비스 연계 기능을 제공해 퍼블릭 클라우드 환경에서 빠르고 안정적인 배포를 지원합니다. 페이지 구성은 4개의 Layer로 관리되며, 모듈화된 폴더 구조로 효율적이고 직관적으로 유지보수할 수 있습니다. 개발자는 5개의 디자인 패턴 샘플을 통해 빠르고 효율적인 개발을 진행할 수 있습니다.",
+    "benefits": [
+      "개발 F/W 및 표준/가이드 제공을 통한 수행 준비기간 단축",
+      "컴포넌트 재활용을 통한 개발 생산성 향상",
+      "중요 보안 취약점/결함 사전 제거를 통한 품질 확보",
+      "Cloud Native 유연한 확장",
+      "다양한 사업 도메인의 기반 F/W로 활용"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "DSCore 도입 사례",
+        "company": "",
+        "industry": "",
+        "challenge": "",
+        "solution": "",
+        "result": ""
+      }
+    ],
+    "techSpecs": [
+      "최신 Spring Framework 적용",
+      "Composite Build 구조",
+      "퍼블릭 클라우드 지향",
+      "효율적이고 직관적인 폴더 구조",
+      "개발 편의성을 위한 디자인 패턴 샘플 제공"
+    ],
+    "contactTeam": "기술혁신단 기술CoE담당/아키텍처팀",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "S/W 개발",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Mahub",
+    "description": "Mahub는 MA 수행에 필요한 업무 관리 기능을 포함하고 통합 Hub 역할을 수행하며, 사업관계자의 공통 요구사항을 개선 및 반영한 효율적인 관리를 제공하는 솔루션입니다.",
+    "categoryId": "",
+    "longDescription": "Mahub는 Ma 통합 인프라관리 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 유지보수 사업관리, IT자산 현황 관리, 서비스 이력 관리 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "손쉬운 MA 계약관리",
+      "실시간 업데이트 및 현황 확인",
+      "계약, 점검지원의 이력관리",
+      "지원 건별 만족도 평가",
+      "One-stop MA 업무관리",
+      "체계적 IT설비관리"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "Mahub 도입 사례",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "통합 유지보수(MA)",
+        "solution": "Mahub 솔루션 도입",
+        "result": "효율적인 MA 관리"
+      },
+      {
+        "id": 2,
+        "title": "Mahub 도입 사례",
+        "company": "KT Cloud",
+        "industry": "Cloud",
+        "challenge": "통합 유지보수(MA)",
+        "solution": "Mahub 솔루션 도입",
+        "result": "효율적인 MA 관리"
+      }
+    ],
+    "techSpecs": [
+      "실시간 업데이트 및 현황 확인",
+      "계약, 점검지원의 이력관리",
+      "종합 리포트 및 통계자료 제공",
+      "SW 버전 및 라이선스 증서 관리",
+      "Data기반 품질 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "통합유지보수(MA)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "IOaaS",
+    "description": "IOaaS는 모든 Cloud 환경에서 시간, 장소, 운영 인력에 대한 제약 없이 고품질/저비용의 Managed IO를 수행하기 위한 인프라 운영 서비스 플랫폼입니다.",
+    "categoryId": "infrastructure-management",
+    "longDescription": " 단순하고 손쉬운 UI를 제공하여, Infra Tech Center 운영 인력이 자동화된 Managed IO 작업을 쉽고 빠르게 수행할 수 있습니다. 통합대시보드를 통해 전체 IO 업무현황을 실시간으로 모니터링할 수 있어, 직관적이고 신속하게 자동화 운영 관리 및 리포팅을 수행할 수 있습니다. 이미 운영 중인 Infra-Bot과 Infra-Plus 시스템과 연동하여 인프라 운영 작업을 자동화할 수 있습니다. 또한, 다양한 Hybrid Cloud 환경에서 독립적으로 Managed IO 서비스를 제공하여, 공통영역의 표준 IO 서비스를 통해 각 환경에 맞는 유연한 운영이 가능합니다.",
+    "benefits": [
+      "시스템 사용자별 역할 및 특성에 따라 최적화된 UI 구성",
+      "시스템 사용자별 역할 및 특성에 따라 최적화된 UI 구성",
+      "대량으로 발생하는 단순, 반복 작업을 자동화하고 동시 병렬 작업 수행",
+      "Managed IO를 위한 최적의 운영 서비스플랫폼 제공",
+      "Cloud 환경의 인프라 운영 1선 업무 표준화/자동화",
+      "운영 플랫폼을 통해 시간, 장소, 운영 인력에 종속 되지 않는 고품질/저비용 인프라 운영 서비스 제공"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "IOaaS 도입 사례",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "IT인프라 운영 적용",
+        "solution": "IOaaS 솔루션 도입",
+        "result": " 고품질/저비용의 Managed IO 수행"
+      }
+    ],
+    "techSpecs": [
+      "Easy & Simple UI",
+      "통합대시보드",
+      "Infra-Bot / Infra-Plus 연동",
+      "다양한 Hybrid Cloud 환경의 Managed IO 제공"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "정상욱 책임",
+    "contactEmail": "sangwook.jeong@kt.com",
+    "contactNumber": "010-9538-9179",
+    "tags": [
+      "인프라 운영(IO)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "K-NMS",
+    "description": "K-NMS는 네트워크 관제 플랫폼 플랫폼입니다.",
+    "categoryId": "infrastructure-management",
+    "longDescription": " K-NMS는 네트워크 관제 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 네트워크 토플로지맵, 네트워크 성능관리, 네트워크 장애관리 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "K-NMS 도입 사례",
+        "company": "",
+        "industry": "",
+        "challenge": "",
+        "solution": "",
+        "result": ""
+      }
+    ],
+    "techSpecs": [
+      "네트워크 토플로지맵",
+      "네트워크 성능관리",
+      "네트워크 장애관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "인프라 운영(IO)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Total Eyes",
+    "description": "Total Eyes는 사용자/관리자/진단자 관점에서 효율적인 보안 진단 및 이행 관리 환경을 지원하는 종합 보안 진단 컨설팅 플랫폼입니다.",
+    "categoryId": "security-compliance",
+    "longDescription": "Total Eyes는 통합 프로젝트 컴플라이언스 시스템을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 웹 / 앱 모의해킹, 웹 모의해킹, 소스코드 구조진단 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "사용자 요구에 따라 서비스 선택·결합, 종합 진단 리포트 및 가이드 제공, 실시간 커뮤니케이션 지원",
+      "웹/앱 모의해킹과 소스코드 구조 진단을 수행하고, 취약점별 맞춤 가이드 제공",
+      "강력한 분석 엔진으로 웹 취약점 및 소스코드 보안 취약점을 실시간으로 탐지",
+      "자가 이행 점검 도구를 제공하여 취약점 항목별 점검 수행 지원",
+      "개인정보 관련 법령 검토와 준수 활동 가이드라인 제시",
+      "전문가 진단·자동 분석·점검 결과를 하나의 보고서 형태로 제공",
+      "대시보드 기반 실시간 알림, 결과 공유 및 협업 인터페이스 지원"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "멀티테넌트 SaaS 및 온프레미스 배포 지원",
+      "SafePCEyes 기반 PC 보안 진단"
+    ],
+    "contactTeam": "Cloud사업본부/보안운영팀",
+    "contactMan": "신동원",
+    "contactEmail": "dongwon.shin@kt.com",
+    "contactNumber": "01038695553",
+    "tags": [
+      "보안"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "K-Topia",
+    "description": "K-Topia는 테스트 시간은 절약하고, 개발 품질은 향상시켜주는 최적화된 자동화된 테스트 플랫폼입니다.",
+    "categoryId": "quality-testing",
+    "longDescription": "K-Topia는 통합 프로젝트 테스트 시스템을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 테스트케이스생성, 테스트결함관리, 테스트진행 모니터링 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "수행 테스트 케이스 기반 테스트 시나리오 관리 기능을 통한 테스트 케이스 작성 및 재활용으로 테스트 케이스의 자산화 가능",
+      "API 서비스, RPA 연계를 통한 Regression Test 자동화 수행을 통한 테스트 수행 시간절약",
+      "다양한 테스트 대시보드 및 통계 산출물 제공"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "K-Topia 도입 사례",
+        "company": "KT",
+        "industry": "IT",
+        "challenge": "다양한 테스트 대시보드 및 통계 산출물 제공",
+        "solution": "K-Topia 솔루션 도입",
+        "result": "KT IT196종 단위 서비스에서 적용 수행"
+      }
+    ],
+    "techSpecs": [
+      "SaaS(멀티테넌트)·온프레미스 설치형 모두 제공",
+      "위젯 기반 대시보드로 통계·모니터링",
+      "라이브 서비스 로그 기반 자동 검증 및 SOAP/REST API 연동 시나리오 테스트 기능 지원"
+    ],
+    "contactTeam": "ICT사업본부/고객개발팀",
+    "contactMan": "장현수",
+    "contactEmail": "k-topia@kt.com",
+    "contactNumber": "01095388446",
+    "tags": [
+      "테스트 자동화"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Target AI",
+    "description": "Target AI는 캠페인 대상 선정을 위한 AI 모델 학습·관리·운영 통합 플랫폼입니다.",
+    "categoryId": "ai",
+    "longDescription": "Target AI는 AI 기반 마케팅 솔루션을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 마케팅 대상 AI선정, AI캠페인 진행현황, AI캠페인 결과 분석 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "주요 Factor 기반의 마켓팅 기획 화면 및 기획된 이벤트에 대하여 여러 채널에서 통합된 오퍼를 제공할 수 있도록 개발된 솔루션 (AI 마켓팅)",
+      "컨테이너 기반으로 채널 증가 및 이벤트 증가에 Scale out 으로 즉각적 대응 가능",
+      "해당 이벤트에 대하여 아웃바운드 혜택 제공토록 캠페인 기획 및 혜택 제공 기능"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "Target AI 도입 사례",
+        "company": "KT",
+        "industry": "CRM",
+        "challenge": "여러 채널에서 통합된 오퍼 제공",
+        "solution": "Target AI 솔루션 도입",
+        "result": "KT Inbound 캠페인 적용"
+      }
+    ],
+    "techSpecs": [
+      "Java 11 기반 SO-Engine과 Python 3.88 전처리 스크립트로 구성",
+      "회귀·랜덤포레스트·SVM·XGBoost 등 다양한 알고리즘 지원",
+      "최적 모델 자동 선택·예측 대상자 선정·성공률 통계 제공"
+    ],
+    "contactTeam": "기술혁신단 AI Tech 담당 / AI 플랫폼팀",
+    "contactMan": "김광열",
+    "contactEmail": "jake.kim@kt.com",
+    "contactNumber": "01045456221",
+    "tags": [
+      "CRM",
+      "캠페인"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "K-DMS",
+    "description": "K-DMS는 디지털기반 교육혁신을 위한 통합 스마트 단말관리 솔루션입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "K-DMS는 사용자 권한별, 지역별, 학교별 실시간 맞춤형 현황 정보를 제공하여 단말 보급/자산관리를 효율화합니다. AS-IS 시스템 연계와 자체 단말 관리로 단말 배포, 운영 업무를 통합화하여 통합 관리로 운영 업무를 간소화합니다. 맞춤형 사용자 포털 제공 및 RPA 기반 보고서 자동 작성 등 업무 최소화를 통해 신속한 AS 지원 및 사용 편리성을 증대합니다.",
+    "benefits": [
+      "장애 처리 시간, 민원대응 적정 처리율 기준의 서비스수준관리(SLA)에 의한 지속 가능한 유지관리 지원",
+      "통합단말관리 포탈에서 학교 단말 현황 제공과 장애접수 등의 업무처리 지원",
+      "RPA를 활용한 레포팅 업무 자동화"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "K-DMS 도입 사례",
+        "company": "교육청",
+        "industry": "스마트기기",
+        "challenge": "단말 보급/자산관리 효율화",
+        "solution": "K-DMS 솔루션 도입",
+        "result": "고객 만족도 개선 "
+      }
+    ],
+    "techSpecs": [
+      "RESTful API 제공",
+      "대시보드 및 분석 기능 내장"
+    ],
+    "contactTeam": "전략AX사업본부 / 전략개발팀",
+    "contactMan": "최병윤",
+    "contactEmail": "choi@kt.com",
+    "contactNumber": "01093508293",
+    "tags": [
+      "스마트기기"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Smart-X",
+    "description": "Smart-X는 디지털 트윈, IoT, 빅데이터 기반의 통합 운영관리 솔루션입니다.",
+    "categoryId": "iot-monitoring",
+    "longDescription": "Smart-X 솔루션은 최신 디지털 트윈 기술을 통해 3차원 공간에서의 시설물 운영 및 관제를 최적화합니다. 이를 통해 사용자는 실시간으로 시설물의 상태를 모니터링하고, 문제 발생 시 즉각적인 대응이 가능하여 운영 효율성을 극대화할 수 있습니다. 또한, 다양한 IoT 국제 표준 프로토콜을 지원함으로써 시스템 간의 호환성과 유연성을 확보합니다.  특히, 시나리오 기반의 Rule-Chain 설정 기능은 사용자가 특정 업무 프로세스를 효과적으로 구성할 수 있도록 도와줍니다.  이 기능을 통해 각종 상황에 맞춰 자동화된 의사결정과 작업 흐름을 구현할 수 있으며, 이는 업무 효율성을 높이는 데 기여합니다. 마지막으로, 이벤트 엔진을 통한 실시간 데이터 처리 및 분석 기능을 제공하여 대량의 데이터를 신속하게 분석하고, 결과를 바탕으로 즉각적인 의사결정이 가능하게 합니다.",
+    "benefits": [
+      "실시간 모니터링 및 대응",
+      "유연한 프로토콜 지원",
+      "시나리오 기반 자동화",
+      "데이터 기반 의사결정 지원",
+      "대시보드 구성",
+      "확장성의 용이함"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "속초시 스마트관광도시 구축사업",
+        "company": "속초시",
+        "industry": "통신",
+        "challenge": "디지털 전환 속도 및 서비스 안정성",
+        "solution": "AICentro 솔루션 도입",
+        "result": "운영 효율 30% 향상 및 고객 만족도 개선"
+      },
+      {
+        "id": 2,
+        "title": "도시정비형 재개발사업 정보통신 ICT 구축",
+        "company": "서울시",
+        "industry": "건설",
+        "challenge": "정보통신 인프라 구축의 복잡성",
+        "solution": "종합 정보통신 시스템 도입",
+        "result": "신속한 재개발 진행 및 주민 편의성 증대"
+      },
+      {
+        "id": 3,
+        "title": "서부간선 지하도로 자동제어 환기 시스템",
+        "company": "서울시",
+        "industry": "교통",
+        "challenge": "지하도로의 안전한 공기 순환",
+        "solution": "자동제어 환기 시스템 설계 및 설치",
+        "result": "환기 효율 향상 및 사고 예방"
+      },
+      {
+        "id": 4,
+        "title": "육군 스마트부대 1-3단계 시범 구축",
+        "company": "육군",
+        "industry": "국방",
+        "challenge": "군 시설의 디지털화 및 자동화",
+        "solution": "스마트 기술 통합 관리 시스템",
+        "result": "작전 효율성 증가 및 인력 자원 최적화"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Python/Java 기반 호환",
+      "위젯 구성을 통한 대시보드 제공",
+      "상세 데이터 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX사업본부/전략개발팀",
+    "contactMan": "이성호",
+    "contactEmail": "smart-x@kt.com",
+    "contactNumber": "010-2326-4046",
+    "tags": [
+      "IoT",
+      "공간",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "AntBot",
+    "description": "AntBot는 다양한 업무를 자동화 할 수 있는 솔루션으로 반복작업 축소와 업무의 효율성을 제공합니다.",
+    "categoryId": "rpa",
+    "longDescription": "AntBot은 RPA(Robotic Process Automation) 기술을 기반으로 다양한 업무를 자동화할 수 있는 플랫폼입니다. AntBot은 반복적인 작업을 줄여주고, 효율성을 높임으로써 직원들이 보다 창의적이고 전략적인 업무에 집중할 수 있도록 지원하며 이 솔루션을 도입함으로써 기업은 시간과 비용을 절감하며, 업무의 정확성과 일관성을 향상시킬 수 있습니다. 또한, 이 솔루션은 챗봇, OCR 등의 기능과 통합되어 자동화의 영역을 더욱 확장합니다. 이를 통해 데이터 입력 및 처리, 고객 응대 등의 다양한 프로세스를 자동화하여 비즈니스의 전반적인 운영 효율성을 제고할 수 있습니다. 저렴한 구축 비용과 신속한 구현으로 빠른 ROI(투자 대비 수익률)를 기대할 수 있어, 기업에 대한 투자 부담을 덜어줍니다. 마지막으로, 모니터링, 대시보드, 스케줄링, 알람 메시지 등 다양한 편의 기능을 제공하여 사용자가 업무 프로세스를 실시간으로 관리하고, 문제가 발생할 경우 즉각적으로 대응할 수 있도록 합니다.  이러한 포괄적인 기능들은 표준화된 업무 프로세스를 구축하고, 전체 비즈니스를 효율적으로 운영하는 데 기여합니다.",
+    "benefits": [
+      "업무 효율성 증대",
+      "디지털 전환 지원",
+      "경제적인 구축 비용",
+      "강력한 모니터링 및 관리 기능"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "신한은행 R비서",
+        "company": "신한은행",
+        "industry": "금융",
+        "challenge": "업무 효율성 및 고객 서비스 향상",
+        "solution": "R비서 솔루션 도입",
+        "result": "고객 응대 시간 40% 단축 및 만족도 증가"
+      },
+      {
+        "id": 2,
+        "title": "IBK 연금보험 AML 자동화",
+        "company": "IBK 연금보험",
+        "industry": "금융",
+        "challenge": "AML(자금세탁방지) 업무의 효율성 부족",
+        "solution": "AML 자동화 시스템 도입",
+        "result": "업무 처리 시간 50% 단축 및 오류 발생률 감소"
+      },
+      {
+        "id": 3,
+        "title": "삼성전자 내부통제 업무 자동화",
+        "company": "삼성전자",
+        "industry": "전자",
+        "challenge": "내부통제 프로세스의 비효율성",
+        "solution": "내부통제 자동화 솔루션 도입",
+        "result": "리스크 관리 개선 및 운영 비용 절감"
+      },
+      {
+        "id": 4,
+        "title": "KT 재무/회계 등 전사 업무 자동화",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "재무/회계 업무의 비효율성",
+        "solution": "업무 자동화 시스템 도입",
+        "result": "업무 처리 속도 30% 향상 및 인력 비용 절감"
+      },
+      {
+        "id": 5,
+        "title": "중소벤처기업부 스마트서비스",
+        "company": "중소벤처기업부",
+        "industry": "정부",
+        "challenge": "소규모 기업 지원 서비스의 디지털화 필요",
+        "solution": "스마트서비스 플랫폼 도입",
+        "result": "서비스 이용자 수 60% 증가 및 운영 효율 향상"
+      },
+      {
+        "id": 6,
+        "title": "KT 그룹사 다수 적용",
+        "company": "KT 그룹",
+        "industry": "통신",
+        "challenge": "그룹사 간 업무 연계 및 효율성 부족",
+        "solution": "통합 관리 시스템 도입",
+        "result": "업무 연계성 35% 향상 및 시간 절약"
+      },
+      {
+        "id": 7,
+        "title": "차세대 국방통합데이터센터(DIDC) 업무 자동화",
+        "company": "국방부",
+        "industry": "국방",
+        "challenge": "국방 데이터 관리의 효율성 부족",
+        "solution": "데이터센터 자동화 솔루션 도입",
+        "result": "데이터 처리 속도 70% 향상 및 안전성 증가"
+      }
+    ],
+    "techSpecs": [
+      "RPA 기반 챗봇",
+      "Studio/Robot 자동화 업무 스케줄 제공",
+      "딥러닝 기반 OCR 기능 제공",
+      "업무의 정량적 수치화를 위한 KPI Dashboard 제공",
+      "스케줄링 상태 관리 및 통계정보 제공",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX사업본부",
+    "contactMan": "",
+    "contactEmail": "antbot@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "업무자동화(RPA)",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Centro-X",
+    "description": "Centro-X는 기업의 업무 프로세스를 효율화, 비즈니스 성과를 극대화 할 수 있도록 지원합니다.",
+    "categoryId": "it-management",
+    "longDescription": "통합 배포 관리 시스템은 애플리케이션 배포를 중앙에서 관리할 수 있는 기능을 제공하며, DevOps 파이프라인을 통해 코드 변경 사항을 지속적으로 통합하고 자동으로 배포할 수 있도록 지원합니다. 또한, 배포 전에 소스코드에 대한 자동 취약점 분석과 사용된 라이브러리와 종속성에 대한 자동 취약점 검사를 수행하며, 운영 중에는 애플리케이션의 보안 상태를 실시간으로 모니터링하여 이상 징후 발생 시 경고를 발송하는 기능이 있습니다. 보안 관리 측면에서는 각 배포 단계별로 승인자를 지정하고 순차적 승인을 통해 다음 단계로 진행할 수 있으며, 모든 승인 및 반려 내역을 관리하여 감사 및 검토 기능을 제공합니다. 이슈 관리와 협업 기능을 통해 이슈 생성 및 추적, 우선순위 설정, 해결되지 않은 이슈 시 배포 차단 기능을 통해 운영 배포를 자동으로 막고, 이슈가 해결되면 담당자의 확인을 통해 정상적인 배포를 진행할 수 있도록 관리 기능을 제공합니다.",
+    "benefits": [
+      "자동화된 배포",
+      "CI/CD 지원",
+      "취약점 점검",
+      "실시간 보안 모니터링",
+      "명확한 승인 절차",
+      "이슈 관리 및 협업"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "하나은행 아이부자 3.0 프로젝트 구축",
+        "company": "하나은행",
+        "industry": "금융",
+        "challenge": "고객 자산 관리 서비스의 접근성 향상",
+        "solution": "아이부자 3.0 플랫폼 구축",
+        "result": "고객 자산 관리 효율 45% 향상 및 신규 고객 유치 25% 증가"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "테스트 구동환경 제공",
+      "AI 분석 플랫폼 포털 제공",
+      "상세 데이터 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "DevOps",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "K-Matter",
+    "description": "K-Matter는 Mattermost 기반 커뮤니케이션 협업 도구로 IT 커뮤니케이션 협업 시스템 플랫폼입니다",
+    "categoryId": "it-management",
+    "longDescription": "커뮤니케이션 협업 도구는 IT 커뮤니케이션 협업 시스템을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 채널생성, 메신저(대화), 검색(대화, 파일) 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "IT관리",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "K-SHIP",
+    "description": "K-SHIP는 동선관리 및 인터페이스 데이터 서비스를 통해 의료기관을 더욱 스마트하게 운영입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "K-SHIP은 국내 최초의 지능형 헬스케어 플랫폼으로, 2022년 3월 저작권 등록을 완료하였습니다. K-SHIP은 의료 검진 분야에서 두 가지 서비스를 통합 제공하며, 동선 관리, 인터페이스, 데이터 관리의 기능을 포함하여 사용자의 편의성을 극대화합니다. 병의원 및 건강검진센터 등을 주요 타겟으로 하여 자체 개발된 이 솔루션은 의료 검진 프로세스를 보다 효율적이고 효과적으로 관리하는 데 중점을 두고 있습니다. 또한, 의료장비 인터페이스를 통해 다양한 유형의 데이터를 추출하고, 실시간으로 정보를 제공함으로써 검진 프로세스 전반에 걸쳐 신속한 의사결정을 지원하며 모바일 서비스는 언제 어디서나 접근할 수 있어, 사용자 편의성을 더욱 높입니다. 수집된 데이터를 바탕으로 검사실 대기 상황을 통계적으로 관리하며, 이를 통해 최적의 맞춤형 데이터를 제공하여 의료 서비스 품질을 향상시킵니다. K-SHIP은 동선 관리 서비스를 통해 수검자에게 검사실의 위치와 진행 상황에 대한 정보를 실시간으로 제공하고,  의료진 및 매니저에게는 원활한 안내 및 관리 기능을 지원하여 전체적으로 검진 경험을 개선하는 데 기여합니다. 이러한 통합적 접근은 헬스케어 분야에서의 혁신을 촉진하며, 고객 만족도를 높이는 중요한 요소로 작용하고 있습니다.",
+    "benefits": [
+      "통합 서비스 제공",
+      "실시간 데이터 처리",
+      "모바일 접근성",
+      "맞춤형 데이터 분석"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KMI 한국의학연구소 8개 센터 도입",
+        "company": "KMI 한국의학연구소",
+        "industry": "의료",
+        "challenge": "연구소의 연구 효율성 및 데이터 관리 연계성 부족",
+        "solution": "8개 센터 통합 관리 시스템 도입",
+        "result": "업무 효율성 증진 및 검진 진행속도 50% 향상"
+      }
+    ],
+    "techSpecs": [
+      "온프레미스 지원",
+      "RESTful API 제공",
+      "상세 데이터 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "kship@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "헬스케어",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "K-ITSM",
+    "description": "K-ITSM는 IT 통합 관리 플랫폼 플랫폼입니다.",
+    "categoryId": "it-management",
+    "longDescription": "ITSM는 IT 통합 관리 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 서비스요청관리, 장애관리, 문제관리 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "IT관리",
+      "Enterprise",
+      "솔루션"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "IT관리",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Job Centro",
+    "description": "Job Centro는 JobCentro 스케쥴러는 데이터 처리 작업을 자동화하고 관리하고, 대규모 데이터 파이프라인을 효율적으로 운영 지원입니다.",
+    "categoryId": "it-management",
+    "longDescription": "시스템의 핵심 기능은 다양한 작업과 데이터를 효율적으로 처리하면서도 안정성을 보장하는 데 중점을 둡니다. 먼저, '분산 처리 지원'은 작업을 여러 노드에 분산시켜 처리 성능을 극대화하고 대규모 데이터 작업을 쉽게 처리할 수 있게 합니다. 한편, '작업 의존성 관리'는 작업 간의 순서를 안정적으로 유지하여 신뢰성을 높입니다. '성능 최적화'는 자동화된 분석과 최적화를 통해 실행 시간을 줄이고 효율을 높이며, '재실행 기능'은 오류 발생 시 작업을 다시 수행할 수 있어 시스템의 안정성을 강화합니다. 또한, '로그 및 감사 기록 관리'는 모든 작업의 실행 기록을 체계적으로 유지해 문제 발생 시 빠른 대응과 후속 분석을 가능하게 합니다. '사용자 권한 관리'는 접근을 제어하고 역할 기반으로 권한을 설정해 보안을 강화합니다. 마지막으로, '다양한 데이터 소스 연동'은 여러 데이터베이스와 파일 시스템을 연동하여 다양한 데이터를 효율적으로 처리할 수 있도록 지원합니다. 이러한 기능들은 통합적으로 시스템의 성능과 안정성을 크게 향상시킵니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 배치관리 프로세스",
+      "사용자 친화적 인터페이스",
+      "이벤트 모니터링"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "현대백화점 New 커머스",
+        "company": "현대백화점",
+        "industry": "유통",
+        "challenge": "산재된 배치 프로세스의 일원화",
+        "solution": "JobCentro 배치 솔루션 도입",
+        "result": "운영효율 개선 및 배치 이벤트 모니터링 업무 복잡도 해소"
+      }
+    ],
+    "techSpecs": [
+      "배치 솔루션"
+    ],
+    "contactTeam": "전략AX본부/전략개발팀",
+    "contactMan": "최병윤",
+    "contactEmail": "contact@kt.com",
+    "contactNumber": "01093508293",
+    "tags": [
+      "배치관리솔루션",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "K-COMPASS",
+    "description": "K-COMPASS는 오픈소스 사용가이드라인을 제공하고 개발SW에 인용된 오픈소스의 저작권 침해와 라이선스 위반, 보안취약점을관리함으로써 리스크를미연에방지 및 체계적인 오픈소스 통합관리 기능을 제공입니다.",
+    "categoryId": "security-compliance",
+    "longDescription": "K-COMPASS는 보안/컴플라이언스 오프소스 검증 솔루션으로 라이선스 검증 및 리포팅 관리을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 오픈소스 관리 프로세스화, 오프소스 사전검토, 실시간 오픈소스 모니터링 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "체계적인 오픈라이센스 관리",
+      "사전 검증을 통한 재개발 방지",
+      "라이선스 고지문 자동화"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KT",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "오픈소스 검증",
+        "solution": "K-COMPASS",
+        "result": "개발 초기단계 사전 검증을 통한 재개발 방지"
+      }
+    ],
+    "techSpecs": [
+      "오픈소스 검증"
+    ],
+    "contactTeam": "Cloud 사업본부/Cloud 컨설팅팀",
+    "contactMan": "박기태",
+    "contactEmail": "osstech@kt.com",
+    "contactNumber": "01072963767",
+    "tags": [
+      "오픈소스 검증",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Safe PC Eyes",
+    "description": "Safe PC Eyes는 PC 보안 취약점 점검 및 PC 보안 수준 진단 솔루션입니다.",
+    "categoryId": "security-compliance",
+    "longDescription": "SafePCEyes는 PC 보안 취약점 점검 서비스로, One Click 실행으로 PC의 보안 상태를 쉽고 빠르게 점검할 수 있는 기능을 제공합니다. 사용자가 스스로 보안 취약점을 개선하여 보안 수준을 향상시키고 정보보안 실천 문화를 조성할 수 있으며, 각 기업이나 개인의 필요에 따라 점검 항목을 유연하게 설정할 수 있습니다. 또한, 정해진 주기 또는 실시간으로 점검을 진행할 수 있어 지속적인 점검 관리가 가능하고, 점검 결과를 통계화하여 사용자에게 제공함으로써 보안 상태를 쉽게 파악할 수 있도록 지원합니다. 중앙 관리 시스템을 통해 모든 점검 대상과 결과를 한눈에 파악할 수 있으며, 미흡하거나 개선이 필요한 사항을 손쉽게 확인할 수 있어 전체 보안 환경을 최적화하는 데 기여합니다.",
+    "benefits": [
+      "One click 실행을 통한 빠른 PC 보안검검",
+      "정보보안 실천 문화 조",
+      "유연한 점검 항목 설정기능",
+      "점검 결과 통계 기능"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "보안"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "contact@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "보안",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "AION-U",
+    "description": "AI:ON-U는 쉽고 간편한 AI 서비스 도입을 위한 B2B AI Agent Builder 서비스입니다.",
+    "categoryId": "ai",
+    "longDescription": "AI:ON-U는 AI Agent 개발을 쉽고 편리하게 할 수 있도록 플레이그라운드 환경을 제공합니다. 플레이그라운드를 사용하여 다양한 AI Agent 서비스를 개발할 수 있습니다. AI:ON-U는 Open AI ChatGPT, Anthropic Claude, Google Gemini 와 같은 사용 LLM뿐만 아니라, LLaMA4, Gemma 등 오픈 LLM까지 다양하게 연동 가능합니다. AI:ON-U는 서비스 사용량 모니터링 기능을 지원합니다. AI Agent의 LLM 사용량을 측정하고 발생하는 비용을 산출할 수 있습니다. AI:ON-U는 비즈니스 서비스에 쉽고 편리하게 붙일 수 있도록 ChatBot 및 API 형태로 제공합니다. AI Agent를 생성 후 기존 서비스에 빠르게 적용 가능합니다.",
+    "benefits": [
+      "No Code 기반 AI 서비스 개발 환경 제공",
+      "RAG, 파라미터 튜닝을 통해 할루시네이션 최소화",
+      "다양한 LLM 지원",
+      "Cloud 서비스에 적합한 구축형 서비스"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "AI:ON 도입 사례",
+        "company": "KTds",
+        "industry": "서비스",
+        "challenge": "임직원들에게 손쉬운 AI 모델링 경험 제공",
+        "solution": "AI:ON 솔루션 도입",
+        "result": "임직원들의 AI 모델링 경험 축적"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Python/Java 기반 호환"
+    ],
+    "contactTeam": "기술혁신단/AI플랫폼팀",
+    "contactMan": "구자윤",
+    "contactEmail": "aion-u@kt.com",
+    "contactNumber": "01083293363",
+    "tags": [
+      "AI",
+      "교육"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Code Genius",
+    "description": "Code Genius는 누구나 쉽게 학습하고 빠르게 구현할 수 있는 AI 코딩 교육 플랫폼입니다.",
+    "categoryId": "ai",
+    "longDescription": "언제 어디에서나 접속 가능한 환경에서 강의 수강 가능 및 반복학습과 복습을 지원합니다. LIVE 강의를 통한 실시간 수업으로 강사 및 수강생들과 효율적으로 소통하고 즉각적인 의견 공유가 가능합니다. Python, C, CPP, Java, Go, Cs, Rust, Ruby 등 다양한 언어를 지원하고 개발도구인 Jupyter Notebook 환경 지원합니다. 사용자별 카메라 및 화면을 동시에 공유할 수 있으며 강사는 강의자료, 강의영상, 실습 문제 풀이 등을 통해 학습지도가 가능합니다. 강사는 판서 기능을 통해 복잡한 개념이나 절차를 단순화된 그림으로 설명이 가능합니다. 학습자 수준에 맞는 다양한 문제풀이를 제공해 자가주도학습이 가능하여 시험대비에 효과적입니다. 강사와 수강생이 동시편집 가능합니다. 접근이 용이한 커뮤니티와 고객센터를 통해 코딩 역량이 향상 가능합니다. ChatGPT를 통한 원활한 학습 및 실습 환경을 제공하여 체계적이고 효율적으로 지식 습득이 가능합니다. AI 자동채점을 통해 채점에 소요되는 시간을 최소화하여 답안을 수집/분석하고 맞춤형 피드백을 제공합니다.",
+    "benefits": [
+      "강의, 실습, 문의가 한 화면에서 모든 조작 가능",
+      "ChatGPT, 1:1 튜터링, 커뮤니티, 자가학습 등의 학습 증진을 위한 각종 도우미를 통해 실력 상승 가능",
+      "불필요한 반복작업을 사전에 방지하는 AI 자동채점 기능 제공"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KT AICE 내 Code Genius 자동채점시스템 도입",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "AICE 자격증 학습자들에게 편리한 학습환경 제공",
+        "solution": "Code Genius 솔루션 도입",
+        "result": "자격증 학습 중 자동채점 시스템으로 불필요한 시간 절약"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Python/Java 기반 호환",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "AI",
+      "교육"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Works AI",
+    "description": "Works AI는 업무 포털에 AI 비서 기능을 융합한 서비스입니다.",
+    "categoryId": "ai",
+    "longDescription": "Works AI는 회사 업무를 지원해주는 AI Agent 서비스를 제공하고 분산되어 있는 사내 지식들을 검색하는 사내 지식 Agent와 자원 예약, 교육 신청 등 다양한 업무를 처리하는 서비스를 제공합니다. 또한 주요기능들을 모바일 환경에서도 사용할 수 있어서 기업의 AI 전환을 가속화할 수 있습니다.",
+    "benefits": [
+      "포털 메인페이지에 AI Agent 서비스를 제공하여 AI 서비스 이용 용이",
+      "사용자별로 위젯 커스터마이징이 가능하여 최적화된 솔루션 제공",
+      "AI Makers를 통한 AI Agent 생성 및 임직원 간 공유 용이"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "KTds 업무 포털 메인페이지로 활용",
+        "company": "KTds",
+        "industry": "서비스",
+        "challenge": "AI 서비스를 쉽게 사용가능한 업무 포털 필요",
+        "solution": "Works AI 솔루션 도입",
+        "result": "AI 서비스를 활용하여 업무 생산성 증가"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Java 기반 호환",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX사업본부/DWP개발팀",
+    "contactMan": "",
+    "contactEmail": "gworks.helpdesk@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Beast",
+    "description": "Beast는 Open API 를 쉽게 이용할 수 있도록 데이터 연계역할을 지원, 융복합 서비스에 활용 가능한 서비스입니다.",
+    "categoryId": "integration",
+    "longDescription": "Beast 는 API 등록 관리에서 검증/배포 및 인증/인가 조건 별 안정적인 관리에서 나아가 대용량 트래픽 처리가 가능한 API Gateway 솔루션입니다.",
+    "benefits": [
+      "무중단 배포",
+      "공통화",
+      "보안준수",
+      "표준화",
+      "성능최적화"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "API GateWay를 통한 대용량 트래픽 처리",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "안정적 대용량 트래픽 처리 및 장애 예방",
+        "solution": "KT 마이데이터 반제품화",
+        "result": "모니터링을 통한 장애 사전예방 및 API 실시간 관리"
+      },
+      {
+        "id": 2,
+        "title": "API GateWay 무중단 배포 도입 사례",
+        "company": "KT",
+        "industry": "통신",
+        "challenge": "API GateWay를 통한 장애 사전예방",
+        "solution": "API LINK GW Tr.(23.07) 솔루션 도입",
+        "result": "안정적 대용량 트래픽 처리 및 무중단 배포"
+      }
+    ],
+    "techSpecs": [
+      "모니터링",
+      "로드밸런싱",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "digico.beast@kt.com",
+    "contactNumber": "",
+    "tags": [
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "DevPro",
+    "description": "DevPro는 SI 라이프사이클 맞춤형 공통 모듈을 제공하는 프레임워크입니다.",
+    "categoryId": "framework",
+    "longDescription": "DevPro는 SI 공통 모듈 솔루션으로 비즈니스 도메인별 핵심 기능을 공통화/표준화 하였으며 확장성/보안성을 고려하여 설계한 프레임워크입니다.",
+    "benefits": [
+      "보안성 충족 및 유지보수 비용 절감",
+      "API GateWay와 연계시 대량 트래픽 처리 가능",
+      "이중화를 고려한 아키텍처 설계"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "이식성 제고",
+      "성능,트랜잭션 및 상호운용성",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "UIPath",
+    "description": "UI Path는 코딩 필요없이 다양한 Activity 를 이용하여 자동화 프로세스를 구현할 수 있는 RPA 솔루션입니다.",
+    "categoryId": "rpa",
+    "longDescription": "UIPath는 단순 반복되는 정량적인 업무를 자동화해주는 소프트웨어 프로그램을 넘어서 확장성과 강력한 성능과 직관적인 개발환경과 편의성을 확보한 글로벌 No.1 RPA 선도 업체의 솔루션으로 kt ds는 2018년부터 공식 파트너사로서 국내시장을 넓히며 함께 성장중 입니다.",
+    "benefits": [
+      "AI, SAP, CRM 등 다양한 3rd Party 제품과 통합",
+      "350개 이상의 다양한 Activity",
+      "코드 없이 시각적 모델링",
+      "직관적 인터페이스"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "이식성 제고",
+      "성능, 트랜잭션 및 상호운용성",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "K-Search",
+    "description": "통합검색 (ElasticSearch)는 빅데 통합검색 시스템 플랫폼입니다.",
+    "categoryId": "big-data",
+    "longDescription": "통합검색 (ElasticSearch)는 빅데 통합검색 시스템을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 실시간 고속 검색,실시간 색인 검색,복잡한 쿼리 검색 등이 있으며,기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "AI, SAP, CRM 등 다양한 3rd Party 제품과 통합",
+      "350개 이상의 다양한 Activity",
+      "코드 없이 시각적 모델링",
+      "직관적 인터페이스"
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "빅데이터",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "N-DAP",
+    "description": "N-DAP는 빅데이터 데이터 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다",
+    "categoryId": "big-data",
+    "longDescription": "N-DAP는 빅데이터 데이 터 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 데이터 수집(정형/비정형), 데이터 가공/처리, 빅데이터 분석 파이프라인 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "K-EDA",
+    "description": "EDA 데이터 탐색/분석는 빅데이터 EDA 데이터 탐색 시스템 플랫폼입니다.",
+    "categoryId": "big-data",
+    "longDescription": "K-EDA는 빅데이터 EDA 데이터 탐색 시스템을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 데이터 탐색, 워크플로워, 데이터가공 등이 있으며, 기업의 디지털 혁신을 가속화하는데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상 "
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "Enterprise",
+      "솔루션",
+      "빅데이터"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Robot Centro",
+    "description": "Robot Centro는 로봇 데이터 관제와 원격 제어, 네비게이션, 비즈니스 요청 및 관리를 종합적으로 지원하는 대시보드 플랫폼입니다.",
+    "categoryId": "ax-service",
+    "longDescription": "로봇 통합 관제 대시보드는 다양한 로봇 데이터를 집계하여 시각화된 차트로 제공하는 종합 페이지입니다. 이를 통해 사용자들은 실시간으로 로봇의 상태와 작업 진행 상황을 한눈에 파악할 수 있습니다. 또한, 로봇 원격 제어 기능을 통해 사용자들은 로봇을 수동으로 운전하거나 특정 작업을 수행하도록 제어할 수 있습니다. 로봇 네비게이션 기능을 통해 로봇의 시작점과 목적지를 지정하여 경로를 설정하고, 현위치 및 방향을 실시간으로 모니터링할 수 있습니다. 로봇 비즈니스 요청 기능은 로봇이 특정 비즈니스 작업을 수행할 수 있도록 요청할 수 있는 페이지를 제공합니다. 마지막으로, 로봇 비즈니스 관리 페이지는 관리자들이 로봇이 수행하는 비즈니스 작업을 효과적으로 관리하고 최적화할 수 있도록 지원합니다. 이 대시보드 플랫폼은 로봇 운영을 더욱 효율적이고 체계적으로 관리할 수 있게 해줍니다.",
+    "benefits": [
+      "실시간 데이터 집계 및 시각화",
+      "제어 옵션 제공",
+      "효율적인 네비게이션 관리",
+      "비즈니스 요청 최적화",
+      "관리자의 작업 최적화 지원",
+      "종합적인 로봇 운영 플랫폼"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Python 기반 호환",
+      "대시보드 및 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX본부/ 전략개발팀",
+    "contactMan": "장원석, 최서연",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "ROS",
+      "로봇 S/W"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Vision AI",
+    "description": "Vision AI는 Vision AI 기반으로 실시간 방문자 식별 및 이력 관리를 통해 고객 경험을 혁신하는 출입 관리 솔루션입니다.",
+    "categoryId": "ax-service",
+    "longDescription": "Vision AI는 AI Vision 기반 방문자 인식 서비스로 실시간 신원 식별과 자동 방문 이력 기록을 통해 출입 관리의 정확성과 효율을 높입니다. 최초 방문자도 자동으로 기록되며, 정보 등록 이후에는 재방문 시 실시간 식별이 가능해 지속적인 고객 인식이 가능합니다. 반복 방문자 추적을 통해 고객 관리 체계를 정교화할 수 있고, 방문 이력을 바탕으로 맞춤형 고객 응대와 VIP 우대 전략도 수립할 수 있습니다. VIP와 블랙리스트 고객을 구분하여 각각에 맞는 전략적 응대를 제공하며, 이는 고객 만족도와 보안 강화를 동시에 실현합니다. 또한 방문 데이터를 기반으로 인력 배치, 공간 운영, 마케팅 타이밍 등 다양한 전략 인사이트를 도출할 수 있어, 운영 효율성과 비즈니스 성과 모두에 긍정적인 영향을 줍니다.",
+    "benefits": [
+      "실시간 신원 식별 및 방문 이력 자동 기록",
+      "최초 방문자 자동 기록 및 등록 후 실시간 식별",
+      "반복 방문자 추적을 통한 고객 관리 체계화",
+      "맞춤형 고객 응대 및 VIP 관리",
+      "VIP·블랙리스트 구분을 통한 전략적 응대",
+      "운영 효율화 및 전략 인사이트 도출"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": " 전략AX사업본부 자체 서비스 '택이네 편의점' 도입",
+        "company": "kt ds",
+        "industry": "AX",
+        "challenge": "AX 기반 실시간 출입자, 재고 관리",
+        "solution": "실시간 스트리밍 카메라 기반 Vision AI 솔루션 도입",
+        "result": "실시간 카메라 기반 출입자 카운팅 체계화 및 효율성 향상"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "RESTful API 제공",
+      "Java 기반 호환",
+      "대시보드 및 분석 기능 내장",
+      "보안 및 권한 관리"
+    ],
+    "contactTeam": "전략AX본부/전략개발팀",
+    "contactMan": "장원석, 최서연",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "AI",
+      "Vision"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Cocktail Cloud",
+    "description": "Cocktail Cloud는 클라우드 네이티브 환경에서의 다양한 어플리케이션 형태를 지원하는 멀티/하이브리드 클라우드 네이티브 플랫폼입니다.",
+    "categoryId": "paas",
+    "longDescription": "cocktail cloud는 멀티/하이브리드 클라우드 네이티브 플랫폼입니다. 온-프레미스 환경과 다수의 퍼블릭 클라우드를 연동하는 멀티 클러스터 환경을 지원합니다. 관리자는 각 환경에 필요한 자원과 구성원의 역할 및 권한 설정 등의 업무 중앙에서 단일 화면으로 관리할 수 있습니다. 4C(Cloud, Cluster, Container, Code) 계층에 맞춰 보안 모델을 적용하여 검증된 심층 방어 컴퓨팅 환경을 제공합니다. 운영 관리를 위한 시각화를 확보하기 위해 모니터링 편의성과 사용자 분석 도구를 제공합니다.",
+    "benefits": [],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "특허청 도입 사례",
+        "company": "특허청",
+        "industry": "공공",
+        "challenge": "외부 AI 번역 API 연동",
+        "solution": "컨테이너 오케스트레이션 환경에서 중계 서버 플랫폼 개발",
+        "result": "외부 민간 번역 API와의 연동 효율성 향상"
+      },
+      {
+        "id": 2,
+        "title": "신한은행 도입 사례",
+        "company": "신한은행",
+        "industry": "금융",
+        "challenge": "기존 시스템의 복잡성과 효율성 개선",
+        "solution": "컨테이너 기반 클라우드 네이티브 인프라 구축",
+        "result": "자동 처리 프로세스를 통해 자원의 효율성 증대"
+      },
+      {
+        "id": 3,
+        "title": "현대카드 도입 사례",
+        "company": "현대카드",
+        "industry": "금융",
+        "challenge": "기존 레거시 애플리케이션의 컨테이너 전환",
+        "solution": "컨테이너 기반 클라우드 네이티브 인프라 구축",
+        "result": "멀티 하이브리드 클라우드 플랫폼 구성"
+      }
+    ],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "자동화 및 CI/CD 지원",
+      "컨테이너 오케스트레이션",
+      "모니터링 및 로깅"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "플랫폼"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Cocktail CMP",
+    "description": "Cocktail CMP는 PaaS 서비스포탈알람추적관리 및 서비스 배포 관리 플랫폼입니다.",
+    "categoryId": "paas",
+    "longDescription": "Cocktail CMP는 PaaS 서비스포탈알람추적관리 및 서비스 배포 관리을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 Multi Tenant 관리(서비스포탈), 모니터링/추적관리, 성능관리 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상 "
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "클라우드 및 온프레미스 지원",
+      "자동화 및 CI/CD 지원",
+      "컨테이너 오케스트레이션",
+      "모니터링 및 로깅"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "PaaS",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "BizForce",
+    "description": "BizForce는 고객 관계 관리 솔루션 플랫폼입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "BizForce는 고객 관계 관리 솔루션을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 고객관리, 사업기회관리, 영업활동관리 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상 "
+    ],
+    "caseStudies": [],
+    "techSpecs": [
+      "문서 관리",
+      "프로젝트 관리",
+      "통합 커뮤니케이션",
+      "비즈니스 인텔리전스"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "비즈니스 S/W",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "C-Hub",
+    "description": "C-Hub는 고객 채널로부터 유입되는 음성데이터를 다양한 AI 서비스와 Legacy 시스템간 일원화된 데이터 연동 기능을 제공하여 융복합 AICC 서비스 구축에 활용 가능한 플랫폼입니다.",
+    "categoryId": "integration",
+    "longDescription": "특정 솔루션에 종속되지 않은 통합 AICC 인터페이스 아키텍처를 제공합니다. 이를 통해 시스템 간의 로그와 이력을 통합 관리하고 고객 여정을 분석할 수 있는 직관적인 자료를 제공합니다. 고객센터와 AICC 서비스 플랫폼 간의 단일화된 데이터 흐름을 통해 E2E 데이터 추적이 가능하여 가시성이 높은 서비스를 보장합니다. 음성 스트림과 서비스 API를 전담 처리하는 Gateway를 구성하여 솔루션의 변경과 교체를 용이하게 하며, 탄력적인 트래픽 대응과 실시간 데이터 처리를 위한 유연한 구조를 갖추고 있습니다. 마지막으로, Auto Scale Out Data 캐시와 NoSQL 기반 데이터 저장소 구현을 통해 성능을 극대화하고, 보안 정책에 따른 데이터 암호화로 고객 정보를 안전하게 보호합니다.",
+    "benefits": [
+      "Adapter 등 표준 I/F 개발로 타사 AICC 솔루션으로 변경 용이",
+      "비동기 데이터 처리, 컨테이너 구조로 AutScale Out 기능 제공"
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "SkyLife AICC BP사업",
+        "company": "SkyLife",
+        "industry": "",
+        "challenge": "AICC 서비스 구축",
+        "solution": "C-Hub 도입",
+        "result": ""
+      }
+    ],
+    "techSpecs": [
+      "일원화된 AICC 인터페이스 아키텍처",
+      "로그 및 이력 관리",
+      "실시간 데이터 처리",
+      "Auto Scale Out Data 캐시",
+      "NoSQL 기반 데이터 저장소",
+      "데이터 암호화"
+    ],
+    "contactTeam": "플랫폼AX사업본부/AI사업팀",
+    "contactMan": "박준표",
+    "contactEmail": "",
+    "contactNumber": "01028120399",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "ColoudWiz",
+    "description": "CloudWiz는 멀티 클라우드 자원/비용 관리, 통합 관제 모니터링, 인프라 구축/운영 자동화, 기술지원 포탈 기능을 제공하는 클라우드 통합관리 플랫폼입니다.",
+    "categoryId": "infrastructure-management",
+    "longDescription": "CloudWiz는 Cloud 구축/운영 자동화 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 Cloud구축자동화, Cloud운영지동화, Cloud이벤트관제 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "(AutoWiz) 인프라 구축 및 운영을 자동화하여, 빠르고 간편한 클라우드 환경 설정이 가능합니다.",
+      "(WatchWiz) 시스템 및 애플리케이션의 성능을 모니터링하여, 안정적인 운영을 도모합니다.",
+      "(EventWiz) 통합 이벤트 대시보드를 통해, 장애 발생 시 신속한 대응과 후속 조치를 지원합니다."
+    ],
+    "caseStudies": [
+      {
+        "id": 1,
+        "title": "TelcCB Public Cloud 관리 시스템 예정(23년)",
+        "company": "",
+        "industry": "",
+        "challenge": "",
+        "solution": "",
+        "result": ""
+      }
+    ],
+    "techSpecs": [
+      "멀티 클라우드 통합 관리",
+      "실시간 리소스 및 비용 수집",
+      "비용 최적화 지원",
+      "코드형 인프라(IaC) 지원",
+      "FinOps 기능",
+      "보안 거버넌스 강화",
+      "온프레미스 자산 클라우드 전환 지원"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "최해민",
+    "contactEmail": "support@cloudwiz.com",
+    "contactNumber": "01037656298",
+    "tags": [
+      "클라우드(AWS)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Log Centro",
+    "description": "Log Centro는 E2E 통합 모니터링 (프로메테우스 + 그라파나)는 서비스감시 대시 모니 인프라관리 플랫폼 플랫폼입니다.",
+    "categoryId": "infrastructure-management",
+    "longDescription": "E2E 통합 모니터링 (프로메테우스 + 그라파나)는 서비스감시 대시 모니 인프라관리 플랫폼을 위한 다양한 기능을 제공하는 기업용 솔루션입니다. 주요 기능으로는 모니터링 대시보드, 인프라 감시, 서비스 통합 감시 등이 있으며, 기업의 디지털 혁신을 가속화하는 데 중점을 둡니다.",
+    "benefits": [
+      "업무 효율성 향상",
+      "자동화된 운영 프로세스",
+      "사용자 친화적 인터페이스",
+      "데이터 기반 의사결정 지원",
+      "비용 절감 및 생산성 향상 "
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "모니터링 대시보드",
+      "인프라 감시",
+      "서비스 통합 감시"
+    ],
+    "contactTeam": "",
+    "contactMan": "",
+    "contactEmail": "",
+    "contactNumber": "",
+    "tags": [
+      "인프라관리",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "AutoWiz",
+    "description": "Auto Wiz는 멀티 클라우드 인프라의 구축과 운영을 자동화하는 CloudWiz의 자동화 모듈입니다.",
+    "categoryId": "infrastructure-management",
+    "longDescription": "AutoWiz는 KT DS의 CloudWiz 플랫폼 내에서 클라우드 인프라 구축과 운영을 자동화하는 핵심 모듈로, 복잡한 IT 자원 설정을 손쉽게 수행할 수 있도록 설계되었습니다. 사용자는 코드형 인프라(IaC: Infrastructure as Code) 기반으로 클라우드 자원을 정의하고, 이를 통해 반복 가능한 배포를 자동화할 수 있습니다. 원클릭 프로비저닝(Provisioning) 기능을 통해 VM, DB, 보안 설정 등 다양한 인프라 요소를 드래그 앤 드롭 방식으로 구성할 수 있어 비개발자도 쉽게 인프라를 설계할 수 있습니다. 사전에 정의된 템플릿을 통해 표준화된 인프라 구축이 가능하며, 인프라 배포 속도를 크게 단축시켜 DevOps 환경에도 적합합니다.",
+    "benefits": [
+      "멀티 클라우드 환경에서도 일관된 자동화 구성 가능.",
+      "인프라 변경 이력 관리, 버전 관리 등 DevOps 및 운영 측면에서도 유용한 기능을 제공"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "다양한 멀티 클라우드 인프라 구축 지원",
+      "모듈화된 코드 제공",
+      "표준 카탈로그 관리",
+      "IaC 기반 시각화된 인프라 관리",
+      "인프라 형상 변경 이력 관리",
+      "VM 기반 인프라 형상 관리",
+      "상세 로그 및 전송 이력 제공"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "정상욱",
+    "contactEmail": "support@cloudwiz.com",
+    "contactNumber": "01095389179",
+    "tags": [
+      "클라우드(AWS)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "K-BILLING",
+    "description": "K-BILLING은 멀티 클라우드 인프라의 구축과 운영을 자동화하는 CloudWiz의 자동화 모듈입니다.",
+    "categoryId": "business-sw",
+    "longDescription": "AutoWiz는 KT DS의 CloudWiz 플랫폼 내에서 클라우드 인프라 구축과 운영을 자동화하는 핵심 모듈로, 복잡한 IT 자원 설정을 손쉽게 수행할 수 있도록 설계되었습니다. 사용자는 코드형 인프라(IaC: Infrastructure as Code) 기반으로 클라우드 자원을 정의하고, 이를 통해 반복 가능한 배포를 자동화할 수 있습니다. 원클릭 프로비저닝(Provisioning) 기능을 통해 VM, DB, 보안 설정 등 다양한 인프라 요소를 드래그 앤 드롭 방식으로 구성할 수 있어 비개발자도 쉽게 인프라를 설계할 수 있습니다. 사전에 정의된 템플릿을 통해 표준화된 인프라 구축이 가능하며, 인프라 배포 속도를 크게 단축시켜 DevOps 환경에도 적합합니다.",
+    "benefits": [
+      "멀티 클라우드 환경에서도 일관된 자동화 구성 가능.",
+      "인프라 변경 이력 관리, 버전 관리 등 DevOps 및 운영 측면에서도 유용한 기능을 제공"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "다양한 멀티 클라우드 인프라 구축 지원",
+      "모듈화된 코드 제공",
+      "표준 카탈로그 관리",
+      "IaC 기반 시각화된 인프라 관리",
+      "인프라 형상 변경 이력 관리",
+      "VM 기반 인프라 형상 관리",
+      "상세 로그 및 전송 이력 제공"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "정상욱",
+    "contactEmail": "support@cloudwiz.com",
+    "contactNumber": "01095389179",
+    "tags": [
+      "클라우드(AWS)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "K-Watch SMS",
+    "description": "K-Watch SMS은 멀티 클라우드 인프라의 구축과 운영을 자동화하는 CloudWiz의 자동화 모듈입니다.",
+    "categoryId": "iot-monitoring",
+    "longDescription": "AutoWiz는 KT DS의 CloudWiz 플랫폼 내에서 클라우드 인프라 구축과 운영을 자동화하는 핵심 모듈로, 복잡한 IT 자원 설정을 손쉽게 수행할 수 있도록 설계되었습니다.\\n사용자는 코드형 인프라(IaC: Infrastructure as Code) 기반으로 클라우드 자원을 정의하고, 이를 통해 반복 가능한 배포를 자동화할 수 있습니다.\\n원클릭 프로비저닝(Provisioning) 기능을 통해 VM, DB, 보안 설정 등 다양한 인프라 요소를 드래그 앤 드롭 방식으로 구성할 수 있어 비개발자도 쉽게 인프라를 설계할 수 있습니다. 사전에 정의된 템플릿을 통해 표준화된 인프라 구축이 가능하며, 인프라 배포 속도를 크게 단축시켜 DevOps 환경에도 적합합니다.",
+    "benefits": [
+      "멀티 클라우드 환경에서도 일관된 자동화 구성 가능.",
+      "인프라 변경 이력 관리, 버전 관리 등 DevOps 및 운영 측면에서도 유용한 기능을 제공"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "다양한 멀티 클라우드 인프라 구축 지원",
+      "모듈화된 코드 제공",
+      "표준 카탈로그 관리",
+      "IaC 기반 시각화된 인프라 관리",
+      "인프라 형상 변경 이력 관리",
+      "VM 기반 인프라 형상 관리",
+      "상세 로그 및 전송 이력 제공"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "정상욱",
+    "contactEmail": "support@cloudwiz.com",
+    "contactNumber": "01095389179",
+    "tags": [
+      "클라우드(AWS)",
+      "Enterprise",
+      "솔루션"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "K-Watch APM",
+    "description": "K-Watch APM은 멀티 클라우드 인프라의 구축과 운영을 자동화하는 CloudWiz의 자동화 모듈입니다.",
+    "categoryId": "iot-monitoring",
+    "longDescription": "AutoWiz는 KT DS의 CloudWiz 플랫폼 내에서 클라우드 인프라 구축과 운영을 자동화하는 핵심 모듈로, 복잡한 IT 자원 설정을 손쉽게 수행할 수 있도록 설계되었습니다.\\n사용자는 코드형 인프라(IaC: Infrastructure as Code) 기반으로 클라우드 자원을 정의하고, 이를 통해 반복 가능한 배포를 자동화할 수 있습니다.\\n원클릭 프로비저닝(Provisioning) 기능을 통해 VM, DB, 보안 설정 등 다양한 인프라 요소를 드래그 앤 드롭 방식으로 구성할 수 있어 비개발자도 쉽게 인프라를 설계할 수 있습니다.\\n사전에 정의된 템플릿을 통해 표준화된 인프라 구축이 가능하며, 인프라 배포 속도를 크게 단축시켜 DevOps 환경에도 적합합니다.",
+    "benefits": [
+      "멀티 클라우드 환경에서도 일관된 자동화 구성 가능.",
+      "인프라 변경 이력 관리, 버전 관리 등 DevOps 및 운영 측면에서도 유용한 기능을 제공"
+    ],
+    "caseStudies": [
+      {}
+    ],
+    "techSpecs": [
+      "다양한 멀티 클라우드 인프라 구축 지원",
+      "모듈화된 코드 제공",
+      "표준 카탈로그 관리",
+      "IaC 기반 시각화된 인프라 관리",
+      "인프라 형상 변경 이력 관리",
+      "VM 기반 인프라 형상 관리",
+      "상세 로그 및 전송 이력 제공"
+    ],
+    "contactTeam": "Cloud사업본부/Cloud플랫폼팀",
+    "contactMan": "정상욱",
+    "contactEmail": "support@cloudwiz.com",
+    "contactNumber": "01095389179",
+    "tags": [
+      "클라우드(AWS)",
+      "Enterprise",
+      "솔루션"
+    ]
+  }
+]
