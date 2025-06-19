@@ -87,7 +87,16 @@ poetry run python generate_enriched_solution.py
 
 ---
 
-> 최종 생성된 enriched JSON 파일들을 Azure AI Search에 업로드합니다.
+## 📦 참고 사항
+
+> `data/preprocess_results/enriched_project_history.json` 및  
+> `data/preprocess_results/enriched_solution.json` 파일은 용량 문제로 Git 커밋에서 제외되었습니다.  
+> 아래 구글 드라이브 링크를 통해 다운로드하실 수 있습니다:
+
+📁 [📥 enriched_project_history.json 다운로드](https://drive.google.com/file/d/1x01c5sKqbRg_1GsQl7pjWGpPOkfY_NU-/view?usp=sharing)  
+📁 [📥 enriched_solution.json 다운로드](https://drive.google.com/file/d/1atFkmYDe-i2_Ib9DKnC0j9TvTnGMbFyW/view?usp=sharing)
+
+> 다운로드한 파일은 Azure AI Search에 업로드해 주세요.
 
 ---
 
